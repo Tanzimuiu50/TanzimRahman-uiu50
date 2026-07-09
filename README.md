@@ -24,10 +24,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Tanzimuiu50&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="33b602b6-77e5-4522-9994-1c2f1b8df8c3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="689245f1-0670-4b2c-82e7-b77261a06c14" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="66e3acec-b383-49e8-b0c6-7fd014d302a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4421c29a-a33a-4675-a75e-0686f0eec40c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="67272a31-b310-42d1-8e14-b5a3bc1854c1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8f5fb037-652f-4713-9634-3753f16ffaca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/8f5fb037-652f-4713-9634-3753f16ffaca/public_url
+https://www.credly.com/badges/67272a31-b310-42d1-8e14-b5a3bc1854c1/public_url
+https://www.credly.com/badges/4421c29a-a33a-4675-a75e-0686f0eec40c/public_url
+https://www.credly.com/badges/66e3acec-b383-49e8-b0c6-7fd014d302a8/public_url
+https://www.credly.com/badges/689245f1-0670-4b2c-82e7-b77261a06c14/public_url
+https://www.credly.com/badges/33b602b6-77e5-4522-9994-1c2f1b8df8c3/public_url
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
